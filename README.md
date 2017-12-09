@@ -1,3 +1,3 @@
-# Skills Webtask
+# Experience Webtask
 
-> Tool to fetch skills from google images and return images
+> Tool to fetch experience from google images and return images
